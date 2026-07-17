@@ -1,0 +1,2352 @@
+{
+  "dataset": "NOAA Fisheries marine species — 3D models + facts",
+  "version": 1,
+  "count": 293,
+  "model_format": "glb",
+  "items": [
+    {
+      "id": "acadian-redfish",
+      "common_name": "Acadian Redfish",
+      "scientific_name": "Sebastes fasciatus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/acadian-redfish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/acadian-redfish.json",
+      "model_bytes": 3648976
+    },
+    {
+      "id": "acropora-globiceps-coral",
+      "common_name": "Acropora globiceps Coral",
+      "scientific_name": "Acropora globiceps",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/acropora-globiceps-coral.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/acropora-globiceps-coral.json",
+      "model_bytes": 10409040
+    },
+    {
+      "id": "acropora-jacquelineae-coral",
+      "common_name": "Acropora jacquelineae Coral",
+      "scientific_name": "Acropora jacquelineae",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/acropora-jacquelineae-coral.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/acropora-jacquelineae-coral.json",
+      "model_bytes": 6346184
+    },
+    {
+      "id": "acropora-lokani-coral",
+      "common_name": "Acropora lokani Coral",
+      "scientific_name": "Acropora lokani",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/acropora-lokani-coral.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/acropora-lokani-coral.json",
+      "model_bytes": 6683076
+    },
+    {
+      "id": "acropora-pharaonis-coral",
+      "common_name": "Acropora pharaonis Coral",
+      "scientific_name": "Acropora pharaonis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/acropora-pharaonis-coral.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/acropora-pharaonis-coral.json",
+      "model_bytes": 8528408
+    },
+    {
+      "id": "acropora-retusa-coral",
+      "common_name": "Acropora retusa Coral",
+      "scientific_name": "Acropora retusa",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/acropora-retusa-coral.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/acropora-retusa-coral.json",
+      "model_bytes": 9616772
+    },
+    {
+      "id": "acropora-rudis-coral",
+      "common_name": "Acropora rudis Coral",
+      "scientific_name": "Acropora rudis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/acropora-rudis-coral.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/acropora-rudis-coral.json",
+      "model_bytes": 6285600
+    },
+    {
+      "id": "acropora-speciosa-coral",
+      "common_name": "Acropora speciosa Coral",
+      "scientific_name": "Acropora speciosa",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/acropora-speciosa-coral.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/acropora-speciosa-coral.json",
+      "model_bytes": 6630088
+    },
+    {
+      "id": "acropora-tenella-coral",
+      "common_name": "Acropora tenella Coral",
+      "scientific_name": "Acropora tenella",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/acropora-tenella-coral.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/acropora-tenella-coral.json",
+      "model_bytes": 5246812
+    },
+    {
+      "id": "adriatic-sturgeon",
+      "common_name": "Adriatic Sturgeon",
+      "scientific_name": "Acipenser naccarii",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/adriatic-sturgeon.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/adriatic-sturgeon.json",
+      "model_bytes": 2727248
+    },
+    {
+      "id": "african-coelacanth",
+      "common_name": "African Coelacanth",
+      "scientific_name": "Latimeria chalumnae",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/african-coelacanth.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/african-coelacanth.json",
+      "model_bytes": 3452408
+    },
+    {
+      "id": "alabama-shad",
+      "common_name": "Alabama Shad",
+      "scientific_name": "Alosa alabamae",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/alabama-shad.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/alabama-shad.json",
+      "model_bytes": 3040204
+    },
+    {
+      "id": "alaska-pollock",
+      "common_name": "Alaska Pollock",
+      "scientific_name": "Gadus chalcogrammus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/alaska-pollock.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/alaska-pollock.json",
+      "model_bytes": 2735680
+    },
+    {
+      "id": "alaska-snow-crab",
+      "common_name": "Alaska Snow Crab",
+      "scientific_name": "Chionoecetes opilio",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/alaska-snow-crab.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/alaska-snow-crab.json",
+      "model_bytes": 5163176
+    },
+    {
+      "id": "almaco-jack",
+      "common_name": "Almaco Jack",
+      "scientific_name": "Seriola rivoliana",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/almaco-jack.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/almaco-jack.json",
+      "model_bytes": 3493464
+    },
+    {
+      "id": "american-lobster",
+      "common_name": "American Lobster",
+      "scientific_name": "Homarus americanus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/american-lobster.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/american-lobster.json",
+      "model_bytes": 3848664
+    },
+    {
+      "id": "american-plaice",
+      "common_name": "American Plaice",
+      "scientific_name": "Hippoglossoides platessoides",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/american-plaice.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/american-plaice.json",
+      "model_bytes": 3787612
+    },
+    {
+      "id": "anacropora-spinosa-coral",
+      "common_name": "Anacropora spinosa Coral",
+      "scientific_name": "Anacropora spinosa",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/anacropora-spinosa-coral.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/anacropora-spinosa-coral.json",
+      "model_bytes": 6366404
+    },
+    {
+      "id": "argentine-angelshark",
+      "common_name": "Argentine Angelshark",
+      "scientific_name": "Squatina argentina",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/argentine-angelshark.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/argentine-angelshark.json",
+      "model_bytes": 2823008
+    },
+    {
+      "id": "arrowtooth-flounder",
+      "common_name": "Arrowtooth Flounder",
+      "scientific_name": "Atheresthes stomias",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/arrowtooth-flounder.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/arrowtooth-flounder.json",
+      "model_bytes": 3566484
+    },
+    {
+      "id": "atlantic-bigeye-tuna",
+      "common_name": "Atlantic Bigeye Tuna",
+      "scientific_name": "Thunnus obesus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-bigeye-tuna.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-bigeye-tuna.json",
+      "model_bytes": 3180744
+    },
+    {
+      "id": "atlantic-blacktip-shark",
+      "common_name": "Atlantic Blacktip Shark",
+      "scientific_name": "Carcharhinus limbatus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-blacktip-shark.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-blacktip-shark.json",
+      "model_bytes": 2662360
+    },
+    {
+      "id": "atlantic-chub-mackerel",
+      "common_name": "Atlantic Chub Mackerel",
+      "scientific_name": "Scomber colias",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-chub-mackerel.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-chub-mackerel.json",
+      "model_bytes": 3114720
+    },
+    {
+      "id": "atlantic-cod",
+      "common_name": "Atlantic Cod",
+      "scientific_name": "Gadus morhua",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-cod.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-cod.json",
+      "model_bytes": 3290580
+    },
+    {
+      "id": "atlantic-common-thresher-shark",
+      "common_name": "Atlantic Common Thresher Shark",
+      "scientific_name": "Alopias vulpinus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-common-thresher-shark.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-common-thresher-shark.json",
+      "model_bytes": 2800568
+    },
+    {
+      "id": "atlantic-deep-sea-red-crab",
+      "common_name": "Atlantic Deep-Sea Red Crab",
+      "scientific_name": "Chaceon quinquedens",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-deep-sea-red-crab.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-deep-sea-red-crab.json",
+      "model_bytes": 4860304
+    },
+    {
+      "id": "atlantic-goliath-grouper",
+      "common_name": "Atlantic Goliath Grouper",
+      "scientific_name": "Epinephelus itajara",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-goliath-grouper.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-goliath-grouper.json",
+      "model_bytes": 3880204
+    },
+    {
+      "id": "atlantic-halibut",
+      "common_name": "Atlantic Halibut",
+      "scientific_name": "Hippoglossus hippoglossus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-halibut.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-halibut.json",
+      "model_bytes": 3589268
+    },
+    {
+      "id": "atlantic-herring",
+      "common_name": "Atlantic Herring",
+      "scientific_name": "Clupea harengus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-herring.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-herring.json",
+      "model_bytes": 2807328
+    },
+    {
+      "id": "atlantic-humpback-dolphin",
+      "common_name": "Atlantic Humpback Dolphin",
+      "scientific_name": "Sousa teuszii",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-humpback-dolphin.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-humpback-dolphin.json",
+      "model_bytes": 2126812
+    },
+    {
+      "id": "atlantic-mackerel",
+      "common_name": "Atlantic Mackerel",
+      "scientific_name": "Scomber scombrus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-mackerel.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-mackerel.json",
+      "model_bytes": 3190816
+    },
+    {
+      "id": "atlantic-mahi-mahi",
+      "common_name": "Atlantic Mahi Mahi",
+      "scientific_name": "Coryphaena hippurus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-mahi-mahi.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-mahi-mahi.json",
+      "model_bytes": 3376256
+    },
+    {
+      "id": "atlantic-menhaden",
+      "common_name": "Atlantic Menhaden",
+      "scientific_name": "Brevoortia tyrannus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-menhaden.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-menhaden.json",
+      "model_bytes": 3694708
+    },
+    {
+      "id": "atlantic-northern-shrimp",
+      "common_name": "Atlantic Northern Shrimp",
+      "scientific_name": "Pandalus borealis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-northern-shrimp.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-northern-shrimp.json",
+      "model_bytes": 2390880
+    },
+    {
+      "id": "atlantic-pollock",
+      "common_name": "Atlantic Pollock",
+      "scientific_name": "Pollachius virens",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-pollock.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-pollock.json",
+      "model_bytes": 3092284
+    },
+    {
+      "id": "atlantic-salmon",
+      "common_name": "Atlantic Salmon",
+      "scientific_name": "Salmo salar",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-salmon.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-salmon.json",
+      "model_bytes": 3920448
+    },
+    {
+      "id": "atlantic-sea-scallop",
+      "common_name": "Atlantic Sea Scallop",
+      "scientific_name": "Placopecten magellanicus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-sea-scallop.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-sea-scallop.json",
+      "model_bytes": 4741348
+    },
+    {
+      "id": "atlantic-sharpnose-shark",
+      "common_name": "Atlantic Sharpnose Shark",
+      "scientific_name": "Rhizoprionodon terraenovae",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-sharpnose-shark.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-sharpnose-shark.json",
+      "model_bytes": 2464292
+    },
+    {
+      "id": "atlantic-shortfin-mako-shark",
+      "common_name": "Atlantic Shortfin Mako Shark",
+      "scientific_name": "Isurus oxyrinchus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-shortfin-mako-shark.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-shortfin-mako-shark.json",
+      "model_bytes": 2486136
+    },
+    {
+      "id": "atlantic-skipjack-tuna",
+      "common_name": "Atlantic Skipjack Tuna",
+      "scientific_name": "Katsuwonus pelamis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-skipjack-tuna.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-skipjack-tuna.json",
+      "model_bytes": 3183848
+    },
+    {
+      "id": "atlantic-spiny-dogfish",
+      "common_name": "Atlantic Spiny Dogfish",
+      "scientific_name": "Squalus acanthias",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-spiny-dogfish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-spiny-dogfish.json",
+      "model_bytes": 2190796
+    },
+    {
+      "id": "atlantic-spotted-dolphin",
+      "common_name": "Atlantic Spotted Dolphin",
+      "scientific_name": "Stenella frontalis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-spotted-dolphin.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-spotted-dolphin.json",
+      "model_bytes": 3387600
+    },
+    {
+      "id": "atlantic-striped-bass",
+      "common_name": "Atlantic Striped Bass",
+      "scientific_name": "Morone saxatilis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-striped-bass.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-striped-bass.json",
+      "model_bytes": 3388980
+    },
+    {
+      "id": "atlantic-sturgeon",
+      "common_name": "Atlantic Sturgeon",
+      "scientific_name": "Acipenser oxyrinchus oxyrinchus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-sturgeon.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-sturgeon.json",
+      "model_bytes": 2686712
+    },
+    {
+      "id": "atlantic-surfclam",
+      "common_name": "Atlantic Surfclam",
+      "scientific_name": "Spisula solidissima",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-surfclam.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-surfclam.json",
+      "model_bytes": 4579352
+    },
+    {
+      "id": "atlantic-wahoo",
+      "common_name": "Atlantic Wahoo",
+      "scientific_name": "Acanthocybium solandri",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-wahoo.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-wahoo.json",
+      "model_bytes": 2844492
+    },
+    {
+      "id": "atlantic-white-sided-dolphin",
+      "common_name": "Atlantic White-Sided Dolphin",
+      "scientific_name": "Lagenorhynchus acutus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-white-sided-dolphin.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-white-sided-dolphin.json",
+      "model_bytes": 1987676
+    },
+    {
+      "id": "atlantic-wolffish",
+      "common_name": "Atlantic Wolffish",
+      "scientific_name": "Anarhichas lupus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-wolffish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-wolffish.json",
+      "model_bytes": 3288384
+    },
+    {
+      "id": "atlantic-yellowfin-tuna",
+      "common_name": "Atlantic Yellowfin Tuna",
+      "scientific_name": "Thunnus albacares",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/atlantic-yellowfin-tuna.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/atlantic-yellowfin-tuna.json",
+      "model_bytes": 3706344
+    },
+    {
+      "id": "bairds-beaked-whale",
+      "common_name": "Baird’s Beaked Whale",
+      "scientific_name": "Berardius bairdii",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/bairds-beaked-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/bairds-beaked-whale.json",
+      "model_bytes": 2651740
+    },
+    {
+      "id": "banggai-cardinalfish",
+      "common_name": "Banggai Cardinalfish",
+      "scientific_name": "Pterapogon kauderni",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/banggai-cardinalfish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/banggai-cardinalfish.json",
+      "model_bytes": 3937268
+    },
+    {
+      "id": "bearded-seal",
+      "common_name": "Bearded Seal",
+      "scientific_name": "Erignathus barbatus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/bearded-seal.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/bearded-seal.json",
+      "model_bytes": 3009624
+    },
+    {
+      "id": "beluga-whale",
+      "common_name": "Beluga Whale",
+      "scientific_name": "Delphinapterus leucas",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/beluga-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/beluga-whale.json",
+      "model_bytes": 3143160
+    },
+    {
+      "id": "black-abalone",
+      "common_name": "Black Abalone",
+      "scientific_name": "Haliotis cracherodii",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/black-abalone.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/black-abalone.json",
+      "model_bytes": 5796548
+    },
+    {
+      "id": "black-grouper",
+      "common_name": "Black Grouper",
+      "scientific_name": "Mycteroperca bonaci",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/black-grouper.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/black-grouper.json",
+      "model_bytes": 3729096
+    },
+    {
+      "id": "black-sea-bass",
+      "common_name": "Black Sea Bass",
+      "scientific_name": "Centropristis striata",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/black-sea-bass.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/black-sea-bass.json",
+      "model_bytes": 3984268
+    },
+    {
+      "id": "blackchin-guitarfish",
+      "common_name": "Blackchin Guitarfish",
+      "scientific_name": "Rhinobatos cemiculus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/blackchin-guitarfish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/blackchin-guitarfish.json",
+      "model_bytes": 2113800
+    },
+    {
+      "id": "blacknose-shark",
+      "common_name": "Blacknose Shark",
+      "scientific_name": "Carcharhinus acronotus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/blacknose-shark.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/blacknose-shark.json",
+      "model_bytes": 2202048
+    },
+    {
+      "id": "blainvilles-beaked-whale",
+      "common_name": "Blainville's Beaked Whale",
+      "scientific_name": "Mesoplodon densirostris",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/blainvilles-beaked-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/blainvilles-beaked-whale.json",
+      "model_bytes": 2499144
+    },
+    {
+      "id": "blue-catfish",
+      "common_name": "Blue Catfish",
+      "scientific_name": "Ictalurus furcatus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/blue-catfish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/blue-catfish.json",
+      "model_bytes": 3800680
+    },
+    {
+      "id": "blue-crab",
+      "common_name": "Blue Crab",
+      "scientific_name": "Callinectes sapidus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/blue-crab.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/blue-crab.json",
+      "model_bytes": 5533260
+    },
+    {
+      "id": "blue-mussel",
+      "common_name": "Blue Mussel",
+      "scientific_name": "Mytilus edulis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/blue-mussel.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/blue-mussel.json",
+      "model_bytes": 5980304
+    },
+    {
+      "id": "blue-whale",
+      "common_name": "Blue Whale",
+      "scientific_name": "Balaenoptera musculus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/blue-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/blue-whale.json",
+      "model_bytes": 2544048
+    },
+    {
+      "id": "bluefish",
+      "common_name": "Bluefish",
+      "scientific_name": "Pomatomus saltatrix",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/bluefish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/bluefish.json",
+      "model_bytes": 3832432
+    },
+    {
+      "id": "blueline-tilefish",
+      "common_name": "Blueline Tilefish",
+      "scientific_name": "Caulolatilus microps",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/blueline-tilefish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/blueline-tilefish.json",
+      "model_bytes": 3693784
+    },
+    {
+      "id": "bocaccio",
+      "common_name": "Bocaccio",
+      "scientific_name": "Sebastes paucispinis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/bocaccio.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/bocaccio.json",
+      "model_bytes": 4325300
+    },
+    {
+      "id": "bocaccio-protected",
+      "common_name": "Bocaccio (Protected)",
+      "scientific_name": "Sebastes paucispinis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/bocaccio-protected.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/bocaccio-protected.json",
+      "model_bytes": 4325304
+    },
+    {
+      "id": "bonnethead-shark",
+      "common_name": "Bonnethead Shark",
+      "scientific_name": "Sphyrna tiburo",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/bonnethead-shark.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/bonnethead-shark.json",
+      "model_bytes": 2002708
+    },
+    {
+      "id": "boulder-star-coral",
+      "common_name": "Boulder Star Coral",
+      "scientific_name": "Orbicella franksi",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/boulder-star-coral.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/boulder-star-coral.json",
+      "model_bytes": 7353924
+    },
+    {
+      "id": "bowhead-whale",
+      "common_name": "Bowhead Whale",
+      "scientific_name": "Balaena mysticetus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/bowhead-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/bowhead-whale.json",
+      "model_bytes": 2795180
+    },
+    {
+      "id": "brazilian-guitarfish",
+      "common_name": "Brazilian Guitarfish",
+      "scientific_name": "Rhinobatos horkelii",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/brazilian-guitarfish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/brazilian-guitarfish.json",
+      "model_bytes": 2250168
+    },
+    {
+      "id": "brown-rock-shrimp",
+      "common_name": "Brown Rock Shrimp",
+      "scientific_name": "Sicyonia brevirostris",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/brown-rock-shrimp.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/brown-rock-shrimp.json",
+      "model_bytes": 3745980
+    },
+    {
+      "id": "brown-shrimp",
+      "common_name": "Brown Shrimp",
+      "scientific_name": "Farfantepenaeus aztecus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/brown-shrimp.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/brown-shrimp.json",
+      "model_bytes": 3496876
+    },
+    {
+      "id": "brydes-whale",
+      "common_name": "Bryde’s Whale",
+      "scientific_name": "Balaenoptera edeni",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/brydes-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/brydes-whale.json",
+      "model_bytes": 2895652
+    },
+    {
+      "id": "butterfish",
+      "common_name": "Butterfish",
+      "scientific_name": "Peprilus triacanthus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/butterfish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/butterfish.json",
+      "model_bytes": 3245828
+    },
+    {
+      "id": "california-market-squid",
+      "common_name": "California Market Squid",
+      "scientific_name": "Doryteuthis (Loligo) opalescens",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/california-market-squid.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/california-market-squid.json",
+      "model_bytes": 3580196
+    },
+    {
+      "id": "california-sea-lion",
+      "common_name": "California Sea Lion",
+      "scientific_name": "Zalophus californianus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/california-sea-lion.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/california-sea-lion.json",
+      "model_bytes": 3930968
+    },
+    {
+      "id": "canary-rockfish",
+      "common_name": "Canary Rockfish",
+      "scientific_name": "Sebastes pinniger",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/canary-rockfish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/canary-rockfish.json",
+      "model_bytes": 3833804
+    },
+    {
+      "id": "cantharellus-noumeae-coral",
+      "common_name": "Cantharellus noumeae Coral",
+      "scientific_name": "Cantharellus noumeae",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/cantharellus-noumeae-coral.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/cantharellus-noumeae-coral.json",
+      "model_bytes": 5643908
+    },
+    {
+      "id": "caribbean-spiny-lobster",
+      "common_name": "Caribbean Spiny Lobster",
+      "scientific_name": "Panulirus argus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/caribbean-spiny-lobster.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/caribbean-spiny-lobster.json",
+      "model_bytes": 4508772
+    },
+    {
+      "id": "chambered-nautilus",
+      "common_name": "Chambered Nautilus",
+      "scientific_name": "Nautilus pompilius",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/chambered-nautilus.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/chambered-nautilus.json",
+      "model_bytes": 4919792
+    },
+    {
+      "id": "chinese-river-dolphin",
+      "common_name": "Chinese River Dolphin",
+      "scientific_name": "Lipotes vexillifer",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/chinese-river-dolphin.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/chinese-river-dolphin.json",
+      "model_bytes": 2826412
+    },
+    {
+      "id": "chinese-sturgeon",
+      "common_name": "Chinese Sturgeon",
+      "scientific_name": "Acipenser sinensis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/chinese-sturgeon.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/chinese-sturgeon.json",
+      "model_bytes": 3133764
+    },
+    {
+      "id": "chinook-salmon",
+      "common_name": "Chinook Salmon",
+      "scientific_name": "Oncorhynchus tshawytscha",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/chinook-salmon.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/chinook-salmon.json",
+      "model_bytes": 3820120
+    },
+    {
+      "id": "chinook-salmon-protected",
+      "common_name": "Chinook Salmon (Protected)",
+      "scientific_name": "Oncorhynchus tshawytscha",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/chinook-salmon-protected.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/chinook-salmon-protected.json",
+      "model_bytes": 3820120
+    },
+    {
+      "id": "chum-salmon",
+      "common_name": "Chum Salmon",
+      "scientific_name": "Oncorhynchus keta",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/chum-salmon.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/chum-salmon.json",
+      "model_bytes": 3501192
+    },
+    {
+      "id": "chum-salmon-protected",
+      "common_name": "Chum Salmon (Protected)",
+      "scientific_name": "Oncorhynchus keta",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/chum-salmon-protected.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/chum-salmon-protected.json",
+      "model_bytes": 3501184
+    },
+    {
+      "id": "clymene-dolphin",
+      "common_name": "Clymene Dolphin",
+      "scientific_name": "Stenella clymene",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/clymene-dolphin.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/clymene-dolphin.json",
+      "model_bytes": 2052292
+    },
+    {
+      "id": "cobia",
+      "common_name": "Cobia",
+      "scientific_name": "Rachycentron canadum",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/cobia.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/cobia.json",
+      "model_bytes": 2495756
+    },
+    {
+      "id": "coho-salmon",
+      "common_name": "Coho Salmon",
+      "scientific_name": "Oncorhynchus kisutch",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/coho-salmon.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/coho-salmon.json",
+      "model_bytes": 3514812
+    },
+    {
+      "id": "coho-salmon-protected",
+      "common_name": "Coho Salmon (Protected)",
+      "scientific_name": "Oncorhynchus kisutch",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/coho-salmon-protected.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/coho-salmon-protected.json",
+      "model_bytes": 3514828
+    },
+    {
+      "id": "common-angelshark",
+      "common_name": "Common Angelshark",
+      "scientific_name": "Squatina squatina",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/common-angelshark.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/common-angelshark.json",
+      "model_bytes": 3729324
+    },
+    {
+      "id": "common-bottlenose-dolphin",
+      "common_name": "Common Bottlenose Dolphin",
+      "scientific_name": "Tursiops truncatus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/common-bottlenose-dolphin.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/common-bottlenose-dolphin.json",
+      "model_bytes": 2391920
+    },
+    {
+      "id": "common-guitarfish",
+      "common_name": "Common Guitarfish",
+      "scientific_name": "Rhinobatos rhinobatos",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/common-guitarfish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/common-guitarfish.json",
+      "model_bytes": 2441316
+    },
+    {
+      "id": "crimson-jobfish-pakapaka",
+      "common_name": "Crimson Jobfish ('Ōpakapaka)",
+      "scientific_name": "Pristipomoides filamentosus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/crimson-jobfish-pakapaka.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/crimson-jobfish-pakapaka.json",
+      "model_bytes": 2774820
+    },
+    {
+      "id": "cuviers-beaked-whale",
+      "common_name": "Cuvier's Beaked Whale",
+      "scientific_name": "Ziphius cavirostris",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/cuviers-beaked-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/cuviers-beaked-whale.json",
+      "model_bytes": 2228140
+    },
+    {
+      "id": "daggernose-shark",
+      "common_name": "Daggernose Shark",
+      "scientific_name": "Isogomphodon oxyrhynchus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/daggernose-shark.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/daggernose-shark.json",
+      "model_bytes": 2726144
+    },
+    {
+      "id": "dalls-porpoise",
+      "common_name": "Dall’s Porpoise",
+      "scientific_name": "Phocoenoides dalli",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/dalls-porpoise.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/dalls-porpoise.json",
+      "model_bytes": 2211744
+    },
+    {
+      "id": "dover-sole",
+      "common_name": "Dover Sole",
+      "scientific_name": "Microstomus pacificus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/dover-sole.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/dover-sole.json",
+      "model_bytes": 3752828
+    },
+    {
+      "id": "dusky-sea-snake",
+      "common_name": "Dusky Sea Snake",
+      "scientific_name": "Aipysurus fuscus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/dusky-sea-snake.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/dusky-sea-snake.json",
+      "model_bytes": 3170972
+    },
+    {
+      "id": "dwarf-sawfish",
+      "common_name": "Dwarf Sawfish",
+      "scientific_name": "Pristis clavata",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/dwarf-sawfish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/dwarf-sawfish.json",
+      "model_bytes": 2339988
+    },
+    {
+      "id": "dwarf-seahorse",
+      "common_name": "Dwarf Seahorse",
+      "scientific_name": "Hippocampus zosterae",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/dwarf-seahorse.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/dwarf-seahorse.json",
+      "model_bytes": 4702076
+    },
+    {
+      "id": "dwarf-sperm-whale",
+      "common_name": "Dwarf Sperm Whale",
+      "scientific_name": "Kogia sima",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/dwarf-sperm-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/dwarf-sperm-whale.json",
+      "model_bytes": 2224196
+    },
+    {
+      "id": "eastern-oyster",
+      "common_name": "Eastern Oyster",
+      "scientific_name": "Crassostrea virginica",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/eastern-oyster.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/eastern-oyster.json",
+      "model_bytes": 5496684
+    },
+    {
+      "id": "elkhorn-coral",
+      "common_name": "Elkhorn Coral",
+      "scientific_name": "Acropora palmata",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/elkhorn-coral.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/elkhorn-coral.json",
+      "model_bytes": 6354128
+    },
+    {
+      "id": "english-sole",
+      "common_name": "English Sole",
+      "scientific_name": "Parophrys vetulus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/english-sole.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/english-sole.json",
+      "model_bytes": 3083604
+    },
+    {
+      "id": "eulachon",
+      "common_name": "Eulachon",
+      "scientific_name": "Thaleichthys pacificus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/eulachon.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/eulachon.json",
+      "model_bytes": 2417216
+    },
+    {
+      "id": "european-sturgeon",
+      "common_name": "European Sturgeon",
+      "scientific_name": "Acipenser sturio",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/european-sturgeon.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/european-sturgeon.json",
+      "model_bytes": 3259092
+    },
+    {
+      "id": "false-killer-whale",
+      "common_name": "False Killer Whale",
+      "scientific_name": "Pseudorca crassidens",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/false-killer-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/false-killer-whale.json",
+      "model_bytes": 2115732
+    },
+    {
+      "id": "federally-managed-gulf-of-america-reef-fish",
+      "common_name": "Federally Managed Gulf of America Reef Fish",
+      "scientific_name": "",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/federally-managed-gulf-of-america-reef-fish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/federally-managed-gulf-of-america-reef-fish.json",
+      "model_bytes": 4817484
+    },
+    {
+      "id": "fimbriaphyllia-paradivisa-coral",
+      "common_name": "Fimbriaphyllia paradivisa Coral",
+      "scientific_name": "Fimbriaphyllia paradivisa",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/fimbriaphyllia-paradivisa-coral.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/fimbriaphyllia-paradivisa-coral.json",
+      "model_bytes": 14293192
+    },
+    {
+      "id": "fin-whale",
+      "common_name": "Fin Whale",
+      "scientific_name": "Balaenoptera physalus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/fin-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/fin-whale.json",
+      "model_bytes": 2410088
+    },
+    {
+      "id": "finetooth-shark",
+      "common_name": "Finetooth Shark",
+      "scientific_name": "Carcharhinus isodon",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/finetooth-shark.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/finetooth-shark.json",
+      "model_bytes": 2262832
+    },
+    {
+      "id": "flathead-sole",
+      "common_name": "Flathead Sole",
+      "scientific_name": "Hippoglossoides elassodon",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/flathead-sole.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/flathead-sole.json",
+      "model_bytes": 3589348
+    },
+    {
+      "id": "frasers-dolphin",
+      "common_name": "Fraser's Dolphin",
+      "scientific_name": "Lagenodelphis hosei",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/frasers-dolphin.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/frasers-dolphin.json",
+      "model_bytes": 1681140
+    },
+    {
+      "id": "gag-grouper",
+      "common_name": "Gag Grouper",
+      "scientific_name": "Mycteroperca microlepis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/gag-grouper.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/gag-grouper.json",
+      "model_bytes": 4208608
+    },
+    {
+      "id": "geoduck",
+      "common_name": "Geoduck",
+      "scientific_name": "Panopea generosa",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/geoduck.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/geoduck.json",
+      "model_bytes": 2653360
+    },
+    {
+      "id": "gervais-beaked-whale",
+      "common_name": "Gervais' Beaked Whale",
+      "scientific_name": "Mesoplodon europaeus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/gervais-beaked-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/gervais-beaked-whale.json",
+      "model_bytes": 2194620
+    },
+    {
+      "id": "giant-manta-ray",
+      "common_name": "Giant Manta Ray",
+      "scientific_name": "Mobula birostris",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/giant-manta-ray.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/giant-manta-ray.json",
+      "model_bytes": 3754552
+    },
+    {
+      "id": "golden-tilefish",
+      "common_name": "Golden Tilefish",
+      "scientific_name": "Lopholatilus chamaeleonticeps",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/golden-tilefish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/golden-tilefish.json",
+      "model_bytes": 3581016
+    },
+    {
+      "id": "gray-seal",
+      "common_name": "Gray Seal",
+      "scientific_name": "Halichoerus grypus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/gray-seal.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/gray-seal.json",
+      "model_bytes": 3717308
+    },
+    {
+      "id": "gray-triggerfish",
+      "common_name": "Gray Triggerfish",
+      "scientific_name": "Balistes capriscus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/gray-triggerfish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/gray-triggerfish.json",
+      "model_bytes": 4388196
+    },
+    {
+      "id": "gray-whale",
+      "common_name": "Gray Whale",
+      "scientific_name": "Eschrichtius robustus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/gray-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/gray-whale.json",
+      "model_bytes": 2204980
+    },
+    {
+      "id": "greater-amberjack",
+      "common_name": "Greater Amberjack",
+      "scientific_name": "Seriola dumerili",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/greater-amberjack.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/greater-amberjack.json",
+      "model_bytes": 2573140
+    },
+    {
+      "id": "green-abalone",
+      "common_name": "Green Abalone",
+      "scientific_name": "Haliotis fulgens",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/green-abalone.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/green-abalone.json",
+      "model_bytes": 7784008
+    },
+    {
+      "id": "green-sawfish",
+      "common_name": "Green Sawfish",
+      "scientific_name": "Pristis zijsron",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/green-sawfish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/green-sawfish.json",
+      "model_bytes": 2252792
+    },
+    {
+      "id": "green-sturgeon",
+      "common_name": "Green Sturgeon",
+      "scientific_name": "Acipenser medirostris",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/green-sturgeon.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/green-sturgeon.json",
+      "model_bytes": 2704924
+    },
+    {
+      "id": "green-turtle",
+      "common_name": "Green Turtle",
+      "scientific_name": "Chelonia mydas",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/green-turtle.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/green-turtle.json",
+      "model_bytes": 3935240
+    },
+    {
+      "id": "greenland-turbot",
+      "common_name": "Greenland Turbot",
+      "scientific_name": "Reinhardtius hippoglossoides",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/greenland-turbot.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/greenland-turbot.json",
+      "model_bytes": 2854872
+    },
+    {
+      "id": "guadalupe-fur-seal",
+      "common_name": "Guadalupe Fur Seal",
+      "scientific_name": "Arctocephalus townsendi",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/guadalupe-fur-seal.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/guadalupe-fur-seal.json",
+      "model_bytes": 4301728
+    },
+    {
+      "id": "gulf-grouper",
+      "common_name": "Gulf Grouper",
+      "scientific_name": "Mycteroperca jordani",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/gulf-grouper.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/gulf-grouper.json",
+      "model_bytes": 3977448
+    },
+    {
+      "id": "gulf-sturgeon",
+      "common_name": "Gulf Sturgeon",
+      "scientific_name": "Acipenser oxyrinchus desotoi",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/gulf-sturgeon.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/gulf-sturgeon.json",
+      "model_bytes": 2742088
+    },
+    {
+      "id": "haddock",
+      "common_name": "Haddock",
+      "scientific_name": "Melanogrammus aeglefinus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/haddock.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/haddock.json",
+      "model_bytes": 2649836
+    },
+    {
+      "id": "harbor-porpoise",
+      "common_name": "Harbor Porpoise",
+      "scientific_name": "Phocoena phocoena",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/harbor-porpoise.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/harbor-porpoise.json",
+      "model_bytes": 2229984
+    },
+    {
+      "id": "harbor-seal",
+      "common_name": "Harbor Seal",
+      "scientific_name": "Phoca vitulina",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/harbor-seal.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/harbor-seal.json",
+      "model_bytes": 3451212
+    },
+    {
+      "id": "harp-seal",
+      "common_name": "Harp Seal",
+      "scientific_name": "Pagophilus groenlandicus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/harp-seal.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/harp-seal.json",
+      "model_bytes": 3193864
+    },
+    {
+      "id": "hawaiian-monk-seal",
+      "common_name": "Hawaiian Monk Seal",
+      "scientific_name": "Neomonachus schauinslandi",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/hawaiian-monk-seal.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/hawaiian-monk-seal.json",
+      "model_bytes": 2658744
+    },
+    {
+      "id": "hawksbill-turtle",
+      "common_name": "Hawksbill Turtle",
+      "scientific_name": "Eretmochelys imbricata",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/hawksbill-turtle.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/hawksbill-turtle.json",
+      "model_bytes": 5274924
+    },
+    {
+      "id": "hectors-dolphin",
+      "common_name": "Hector’s Dolphin",
+      "scientific_name": "Cephalorhynchus hectori",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/hectors-dolphin.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/hectors-dolphin.json",
+      "model_bytes": 2452268
+    },
+    {
+      "id": "hooded-seal",
+      "common_name": "Hooded Seal",
+      "scientific_name": "Cystophora cristata",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/hooded-seal.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/hooded-seal.json",
+      "model_bytes": 3694944
+    },
+    {
+      "id": "humpback-whale",
+      "common_name": "Humpback Whale",
+      "scientific_name": "Megaptera novaeangliae",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/humpback-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/humpback-whale.json",
+      "model_bytes": 3603024
+    },
+    {
+      "id": "indus-river-dolphin",
+      "common_name": "Indus River Dolphin",
+      "scientific_name": "Platanista gangetica minor",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/indus-river-dolphin.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/indus-river-dolphin.json",
+      "model_bytes": 2205424
+    },
+    {
+      "id": "island-grouper",
+      "common_name": "Island Grouper",
+      "scientific_name": "Mycteroperca fusca",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/island-grouper.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/island-grouper.json",
+      "model_bytes": 4059448
+    },
+    {
+      "id": "isopora-crateriformis-coral",
+      "common_name": "Isopora crateriformis Coral",
+      "scientific_name": "Isopora crateriformis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/isopora-crateriformis-coral.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/isopora-crateriformis-coral.json",
+      "model_bytes": 5072880
+    },
+    {
+      "id": "jonah-crab",
+      "common_name": "Jonah Crab",
+      "scientific_name": "Cancer borealis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/jonah-crab.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/jonah-crab.json",
+      "model_bytes": 5062808
+    },
+    {
+      "id": "kaluga-sturgeon",
+      "common_name": "Kaluga Sturgeon",
+      "scientific_name": "Huso dauricus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/kaluga-sturgeon.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/kaluga-sturgeon.json",
+      "model_bytes": 2590736
+    },
+    {
+      "id": "kemps-ridley-turtle",
+      "common_name": "Kemp's Ridley Turtle",
+      "scientific_name": "Lepidochelys kempii",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/kemps-ridley-turtle.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/kemps-ridley-turtle.json",
+      "model_bytes": 4371532
+    },
+    {
+      "id": "killer-whale",
+      "common_name": "Killer Whale",
+      "scientific_name": "Orcinus orca",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/killer-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/killer-whale.json",
+      "model_bytes": 2477580
+    },
+    {
+      "id": "king-mackerel",
+      "common_name": "King Mackerel",
+      "scientific_name": "Scomberomorus cavalla",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/king-mackerel.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/king-mackerel.json",
+      "model_bytes": 3446692
+    },
+    {
+      "id": "largetooth-sawfish",
+      "common_name": "Largetooth Sawfish",
+      "scientific_name": "Pristis pristis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/largetooth-sawfish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/largetooth-sawfish.json",
+      "model_bytes": 1776732
+    },
+    {
+      "id": "leatherback-turtle",
+      "common_name": "Leatherback Turtle",
+      "scientific_name": "Dermochelys coriacea",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/leatherback-turtle.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/leatherback-turtle.json",
+      "model_bytes": 3755160
+    },
+    {
+      "id": "lingcod",
+      "common_name": "Lingcod",
+      "scientific_name": "Ophiodon elongatus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/lingcod.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/lingcod.json",
+      "model_bytes": 3694272
+    },
+    {
+      "id": "lobed-star-coral",
+      "common_name": "Lobed Star Coral",
+      "scientific_name": "Orbicella annularis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/lobed-star-coral.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/lobed-star-coral.json",
+      "model_bytes": 9314372
+    },
+    {
+      "id": "loggerhead-turtle",
+      "common_name": "Loggerhead Turtle",
+      "scientific_name": "Caretta caretta",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/loggerhead-turtle.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/loggerhead-turtle.json",
+      "model_bytes": 4286736
+    },
+    {
+      "id": "long-beaked-common-dolphin",
+      "common_name": "Long-Beaked Common Dolphin",
+      "scientific_name": "Delphinus capensis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/long-beaked-common-dolphin.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/long-beaked-common-dolphin.json",
+      "model_bytes": 2114672
+    },
+    {
+      "id": "long-finned-pilot-whale",
+      "common_name": "Long-Finned Pilot Whale",
+      "scientific_name": "Globicephala melas",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/long-finned-pilot-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/long-finned-pilot-whale.json",
+      "model_bytes": 2348744
+    },
+    {
+      "id": "longfin-squid",
+      "common_name": "Longfin Squid",
+      "scientific_name": "Doryteuthis (Amerigo) pealeii",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/longfin-squid.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/longfin-squid.json",
+      "model_bytes": 3939268
+    },
+    {
+      "id": "longmans-beaked-whale",
+      "common_name": "Longman's Beaked Whale",
+      "scientific_name": "Indopacetus pacificus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/longmans-beaked-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/longmans-beaked-whale.json",
+      "model_bytes": 2184752
+    },
+    {
+      "id": "longtail-red-snapper-onaga",
+      "common_name": "Longtail Red Snapper (Onaga)",
+      "scientific_name": "Etelis coruscans",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/longtail-red-snapper-onaga.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/longtail-red-snapper-onaga.json",
+      "model_bytes": 2996876
+    },
+    {
+      "id": "main-hawaiian-islands-deep-7-bottomfish",
+      "common_name": "Main Hawaiian Islands Deep 7 Bottomfish",
+      "scientific_name": "",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/main-hawaiian-islands-deep-7-bottomfish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/main-hawaiian-islands-deep-7-bottomfish.json",
+      "model_bytes": 4146444
+    },
+    {
+      "id": "mediterranean-monk-seal",
+      "common_name": "Mediterranean Monk Seal",
+      "scientific_name": "Monachus monachus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/mediterranean-monk-seal.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/mediterranean-monk-seal.json",
+      "model_bytes": 2474100
+    },
+    {
+      "id": "melon-headed-whale",
+      "common_name": "Melon-Headed Whale",
+      "scientific_name": "Peponocephala electra",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/melon-headed-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/melon-headed-whale.json",
+      "model_bytes": 1587028
+    },
+    {
+      "id": "minke-whale",
+      "common_name": "Minke Whale",
+      "scientific_name": "Balaenoptera acutorostrata",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/minke-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/minke-whale.json",
+      "model_bytes": 2189656
+    },
+    {
+      "id": "monkfish",
+      "common_name": "Monkfish",
+      "scientific_name": "Lophius americanus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/monkfish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/monkfish.json",
+      "model_bytes": 3017912
+    },
+    {
+      "id": "montipora-australiensis-coral",
+      "common_name": "Montipora australiensis Coral",
+      "scientific_name": "Montipora australiensis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/montipora-australiensis-coral.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/montipora-australiensis-coral.json",
+      "model_bytes": 7015808
+    },
+    {
+      "id": "mountainous-star-coral",
+      "common_name": "Mountainous Star Coral",
+      "scientific_name": "Orbicella faveolata",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/mountainous-star-coral.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/mountainous-star-coral.json",
+      "model_bytes": 8086204
+    },
+    {
+      "id": "narrow-sawfish",
+      "common_name": "Narrow Sawfish",
+      "scientific_name": "Anoxypristis cuspidata",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/narrow-sawfish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/narrow-sawfish.json",
+      "model_bytes": 2170200
+    },
+    {
+      "id": "narrownose-smoothhound-shark",
+      "common_name": "Narrownose Smoothhound Shark",
+      "scientific_name": "Mustelus schmitti",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/narrownose-smoothhound-shark.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/narrownose-smoothhound-shark.json",
+      "model_bytes": 2655224
+    },
+    {
+      "id": "narwhal",
+      "common_name": "Narwhal",
+      "scientific_name": "Monodon monoceros",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/narwhal.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/narwhal.json",
+      "model_bytes": 3260016
+    },
+    {
+      "id": "nassau-grouper",
+      "common_name": "Nassau Grouper",
+      "scientific_name": "Epinephelus striatus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/nassau-grouper.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/nassau-grouper.json",
+      "model_bytes": 4125560
+    },
+    {
+      "id": "north-atlantic-albacore-tuna",
+      "common_name": "North Atlantic Albacore Tuna",
+      "scientific_name": "Thunnus alalunga",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/north-atlantic-albacore-tuna.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/north-atlantic-albacore-tuna.json",
+      "model_bytes": 3267016
+    },
+    {
+      "id": "north-atlantic-right-whale",
+      "common_name": "North Atlantic Right Whale",
+      "scientific_name": "Eubalaena glacialis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/north-atlantic-right-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/north-atlantic-right-whale.json",
+      "model_bytes": 2157208
+    },
+    {
+      "id": "north-atlantic-swordfish",
+      "common_name": "North Atlantic Swordfish",
+      "scientific_name": "Xiphias gladius",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/north-atlantic-swordfish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/north-atlantic-swordfish.json",
+      "model_bytes": 2188940
+    },
+    {
+      "id": "north-pacific-right-whale",
+      "common_name": "North Pacific Right Whale",
+      "scientific_name": "Eubalaena japonica",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/north-pacific-right-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/north-pacific-right-whale.json",
+      "model_bytes": 2153140
+    },
+    {
+      "id": "north-pacific-swordfish",
+      "common_name": "North Pacific Swordfish",
+      "scientific_name": "Xiphias gladius",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/north-pacific-swordfish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/north-pacific-swordfish.json",
+      "model_bytes": 2188936
+    },
+    {
+      "id": "northeast-multispecies-groundfish",
+      "common_name": "Northeast Multispecies (Groundfish)",
+      "scientific_name": "",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/northeast-multispecies-groundfish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/northeast-multispecies-groundfish.json",
+      "model_bytes": 4921836
+    },
+    {
+      "id": "northeast-skate-complex",
+      "common_name": "Northeast Skate Complex",
+      "scientific_name": "",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/northeast-skate-complex.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/northeast-skate-complex.json",
+      "model_bytes": 4146520
+    },
+    {
+      "id": "northern-anchovy",
+      "common_name": "Northern Anchovy",
+      "scientific_name": "Engraulis mordax",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/northern-anchovy.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/northern-anchovy.json",
+      "model_bytes": 2725352
+    },
+    {
+      "id": "northern-bottlenose-whale",
+      "common_name": "Northern Bottlenose Whale",
+      "scientific_name": "Hyperoodon ampullatus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/northern-bottlenose-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/northern-bottlenose-whale.json",
+      "model_bytes": 2366504
+    },
+    {
+      "id": "northern-elephant-seal",
+      "common_name": "Northern Elephant Seal",
+      "scientific_name": "Mirounga angustirostris",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/northern-elephant-seal.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/northern-elephant-seal.json",
+      "model_bytes": 3222024
+    },
+    {
+      "id": "northern-fur-seal",
+      "common_name": "Northern Fur Seal",
+      "scientific_name": "Callorhinus ursinus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/northern-fur-seal.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/northern-fur-seal.json",
+      "model_bytes": 5246804
+    },
+    {
+      "id": "northern-quahog",
+      "common_name": "Northern Quahog",
+      "scientific_name": "Mercenaria mercenaria",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/northern-quahog.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/northern-quahog.json",
+      "model_bytes": 5578556
+    },
+    {
+      "id": "northern-right-whale-dolphin",
+      "common_name": "Northern Right Whale Dolphin",
+      "scientific_name": "Lissodelphis borealis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/northern-right-whale-dolphin.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/northern-right-whale-dolphin.json",
+      "model_bytes": 1818272
+    },
+    {
+      "id": "ocean-pout",
+      "common_name": "Ocean Pout",
+      "scientific_name": "Zoarces americanus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/ocean-pout.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/ocean-pout.json",
+      "model_bytes": 3076600
+    },
+    {
+      "id": "ocean-quahog",
+      "common_name": "Ocean Quahog",
+      "scientific_name": "Arctica islandica",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/ocean-quahog.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/ocean-quahog.json",
+      "model_bytes": 4475368
+    },
+    {
+      "id": "oceanic-whitetip-shark",
+      "common_name": "Oceanic Whitetip Shark",
+      "scientific_name": "Carcharhinus longimanus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/oceanic-whitetip-shark.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/oceanic-whitetip-shark.json",
+      "model_bytes": 2417336
+    },
+    {
+      "id": "olive-ridley-turtle",
+      "common_name": "Olive Ridley Turtle",
+      "scientific_name": "Lepidochelys olivacea",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/olive-ridley-turtle.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/olive-ridley-turtle.json",
+      "model_bytes": 4398232
+    },
+    {
+      "id": "opah",
+      "common_name": "Opah",
+      "scientific_name": "Lampris guttatus, Lampris spp.",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/opah.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/opah.json",
+      "model_bytes": 4029608
+    },
+    {
+      "id": "pacific-albacore-tuna",
+      "common_name": "Pacific Albacore Tuna",
+      "scientific_name": "Thunnus alalunga",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pacific-albacore-tuna.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pacific-albacore-tuna.json",
+      "model_bytes": 3267020
+    },
+    {
+      "id": "pacific-bigeye-tuna",
+      "common_name": "Pacific Bigeye Tuna",
+      "scientific_name": "Thunnus obesus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pacific-bigeye-tuna.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pacific-bigeye-tuna.json",
+      "model_bytes": 3180580
+    },
+    {
+      "id": "pacific-blue-marlin",
+      "common_name": "Pacific Blue Marlin",
+      "scientific_name": "Makaira nigricans",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pacific-blue-marlin.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pacific-blue-marlin.json",
+      "model_bytes": 2125624
+    },
+    {
+      "id": "pacific-bluefin-tuna",
+      "common_name": "Pacific Bluefin Tuna",
+      "scientific_name": "Thunnus orientalis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pacific-bluefin-tuna.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pacific-bluefin-tuna.json",
+      "model_bytes": 3264752
+    },
+    {
+      "id": "pacific-cod",
+      "common_name": "Pacific Cod",
+      "scientific_name": "Gadus macrocephalus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pacific-cod.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pacific-cod.json",
+      "model_bytes": 3643512
+    },
+    {
+      "id": "pacific-common-thresher-shark",
+      "common_name": "Pacific Common Thresher Shark",
+      "scientific_name": "Alopias vulpinus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pacific-common-thresher-shark.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pacific-common-thresher-shark.json",
+      "model_bytes": 2801616
+    },
+    {
+      "id": "pacific-halibut",
+      "common_name": "Pacific Halibut",
+      "scientific_name": "Hippoglossus stenolepis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pacific-halibut.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pacific-halibut.json",
+      "model_bytes": 3886696
+    },
+    {
+      "id": "pacific-herring",
+      "common_name": "Pacific Herring",
+      "scientific_name": "Clupea pallasii",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pacific-herring.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pacific-herring.json",
+      "model_bytes": 3261788
+    },
+    {
+      "id": "pacific-mackerel",
+      "common_name": "Pacific Mackerel",
+      "scientific_name": "Scomber japonicus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pacific-mackerel.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pacific-mackerel.json",
+      "model_bytes": 3314672
+    },
+    {
+      "id": "pacific-mahimahi",
+      "common_name": "Pacific Mahimahi",
+      "scientific_name": "Coryphaena hippurus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pacific-mahimahi.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pacific-mahimahi.json",
+      "model_bytes": 3376440
+    },
+    {
+      "id": "pacific-ocean-perch",
+      "common_name": "Pacific Ocean Perch",
+      "scientific_name": "Sebastes alutus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pacific-ocean-perch.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pacific-ocean-perch.json",
+      "model_bytes": 3653372
+    },
+    {
+      "id": "pacific-oyster",
+      "common_name": "Pacific Oyster",
+      "scientific_name": "Crassostrea gigas; Magallana gigas",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pacific-oyster.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pacific-oyster.json",
+      "model_bytes": 6207112
+    },
+    {
+      "id": "pacific-salmon-and-steelhead",
+      "common_name": "Pacific Salmon and Steelhead",
+      "scientific_name": "",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pacific-salmon-and-steelhead.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pacific-salmon-and-steelhead.json",
+      "model_bytes": 4382752
+    },
+    {
+      "id": "pacific-sardine",
+      "common_name": "Pacific Sardine",
+      "scientific_name": "Sardinops sagax caerulea",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pacific-sardine.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pacific-sardine.json",
+      "model_bytes": 3236792
+    },
+    {
+      "id": "pacific-shortfin-mako-shark",
+      "common_name": "Pacific Shortfin Mako Shark",
+      "scientific_name": "Isurus oxyrinchus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pacific-shortfin-mako-shark.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pacific-shortfin-mako-shark.json",
+      "model_bytes": 2488248
+    },
+    {
+      "id": "pacific-skipjack-tuna",
+      "common_name": "Pacific Skipjack Tuna",
+      "scientific_name": "Katsuwonus pelamis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pacific-skipjack-tuna.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pacific-skipjack-tuna.json",
+      "model_bytes": 3183648
+    },
+    {
+      "id": "pacific-spiny-dogfish",
+      "common_name": "Pacific Spiny Dogfish",
+      "scientific_name": "Squalus suckleyi",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pacific-spiny-dogfish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pacific-spiny-dogfish.json",
+      "model_bytes": 2190212
+    },
+    {
+      "id": "pacific-wahoo",
+      "common_name": "Pacific Wahoo",
+      "scientific_name": "Acanthocybium solanderi",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pacific-wahoo.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pacific-wahoo.json",
+      "model_bytes": 2844448
+    },
+    {
+      "id": "pacific-white-sided-dolphin",
+      "common_name": "Pacific White-Sided Dolphin",
+      "scientific_name": "Lagenorhynchus obliquidens",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pacific-white-sided-dolphin.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pacific-white-sided-dolphin.json",
+      "model_bytes": 2270720
+    },
+    {
+      "id": "pacific-whiting",
+      "common_name": "Pacific Whiting",
+      "scientific_name": "Mercluccius productus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pacific-whiting.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pacific-whiting.json",
+      "model_bytes": 2716756
+    },
+    {
+      "id": "pacific-yellowfin-tuna",
+      "common_name": "Pacific Yellowfin Tuna",
+      "scientific_name": "Thunnus albacares",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pacific-yellowfin-tuna.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pacific-yellowfin-tuna.json",
+      "model_bytes": 3704536
+    },
+    {
+      "id": "pantropical-spotted-dolphin",
+      "common_name": "Pantropical Spotted Dolphin",
+      "scientific_name": "Stenella attenuata",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pantropical-spotted-dolphin.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pantropical-spotted-dolphin.json",
+      "model_bytes": 2478268
+    },
+    {
+      "id": "pavona-diffluens-coral",
+      "common_name": "Pavona diffluens Coral",
+      "scientific_name": "Pavona diffluens",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pavona-diffluens-coral.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pavona-diffluens-coral.json",
+      "model_bytes": 6629284
+    },
+    {
+      "id": "petrale-sole",
+      "common_name": "Petrale Sole",
+      "scientific_name": "Eopsetta jordani",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/petrale-sole.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/petrale-sole.json",
+      "model_bytes": 4702168
+    },
+    {
+      "id": "pillar-coral",
+      "common_name": "Pillar Coral",
+      "scientific_name": "Dendrogyra cylindrus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pillar-coral.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pillar-coral.json",
+      "model_bytes": 6768068
+    },
+    {
+      "id": "pink-abalone",
+      "common_name": "Pink Abalone",
+      "scientific_name": "Haliotis corrugata",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pink-abalone.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pink-abalone.json",
+      "model_bytes": 4771824
+    },
+    {
+      "id": "pink-salmon",
+      "common_name": "Pink Salmon",
+      "scientific_name": "Oncorhynchus gorbuscha",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pink-salmon.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pink-salmon.json",
+      "model_bytes": 3388052
+    },
+    {
+      "id": "pink-shrimp",
+      "common_name": "Pink Shrimp",
+      "scientific_name": "Farfantepenaeus duorarum",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pink-shrimp.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pink-shrimp.json",
+      "model_bytes": 3441076
+    },
+    {
+      "id": "pinto-abalone",
+      "common_name": "Pinto Abalone",
+      "scientific_name": "Haliotis kamtschatkana",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pinto-abalone.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pinto-abalone.json",
+      "model_bytes": 6431760
+    },
+    {
+      "id": "pocillopora-meandrina-coral",
+      "common_name": "Pocillopora meandrina Coral",
+      "scientific_name": "Pocillopora meandrina",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pocillopora-meandrina-coral.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pocillopora-meandrina-coral.json",
+      "model_bytes": 9294984
+    },
+    {
+      "id": "pygmy-killer-whale",
+      "common_name": "Pygmy Killer Whale",
+      "scientific_name": "Feresa attenuata",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pygmy-killer-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pygmy-killer-whale.json",
+      "model_bytes": 3041984
+    },
+    {
+      "id": "pygmy-sperm-whale",
+      "common_name": "Pygmy Sperm Whale",
+      "scientific_name": "Kogia breviceps",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/pygmy-sperm-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/pygmy-sperm-whale.json",
+      "model_bytes": 2183352
+    },
+    {
+      "id": "queen-conch",
+      "common_name": "Queen Conch",
+      "scientific_name": "Aliger gigas",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/queen-conch.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/queen-conch.json",
+      "model_bytes": 5199644
+    },
+    {
+      "id": "red-grouper",
+      "common_name": "Red Grouper",
+      "scientific_name": "Epinephelus morio",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/red-grouper.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/red-grouper.json",
+      "model_bytes": 3866004
+    },
+    {
+      "id": "red-hake",
+      "common_name": "Red Hake",
+      "scientific_name": "Urophycis chuss",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/red-hake.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/red-hake.json",
+      "model_bytes": 3133548
+    },
+    {
+      "id": "red-king-crab",
+      "common_name": "Red King Crab",
+      "scientific_name": "Paralithodes camtschaticus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/red-king-crab.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/red-king-crab.json",
+      "model_bytes": 5945248
+    },
+    {
+      "id": "red-snapper",
+      "common_name": "Red Snapper",
+      "scientific_name": "Lutjanus campechanus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/red-snapper.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/red-snapper.json",
+      "model_bytes": 3874396
+    },
+    {
+      "id": "rex-sole",
+      "common_name": "Rex Sole",
+      "scientific_name": "Glyptocephalus zachirus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/rex-sole.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/rex-sole.json",
+      "model_bytes": 3257008
+    },
+    {
+      "id": "ribbon-seal",
+      "common_name": "Ribbon Seal",
+      "scientific_name": "Histriophoca fasciata",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/ribbon-seal.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/ribbon-seal.json",
+      "model_bytes": 3449100
+    },
+    {
+      "id": "rices-whale",
+      "common_name": "Rice's Whale",
+      "scientific_name": "Balaenoptera ricei",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/rices-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/rices-whale.json",
+      "model_bytes": 2014148
+    },
+    {
+      "id": "ringed-seal",
+      "common_name": "Ringed Seal",
+      "scientific_name": "Pusa hispida",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/ringed-seal.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/ringed-seal.json",
+      "model_bytes": 3895084
+    },
+    {
+      "id": "rissos-dolphin",
+      "common_name": "Risso’s Dolphin",
+      "scientific_name": "Grampus griseus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/rissos-dolphin.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/rissos-dolphin.json",
+      "model_bytes": 2540972
+    },
+    {
+      "id": "river-herring",
+      "common_name": "River Herring",
+      "scientific_name": "",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/river-herring.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/river-herring.json",
+      "model_bytes": 4267228
+    },
+    {
+      "id": "rock-sole",
+      "common_name": "Rock Sole",
+      "scientific_name": "Lepidopsetta billineta (southern rock sole) and Lepidopsetta polyxystra (northern rock sole)",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/rock-sole.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/rock-sole.json",
+      "model_bytes": 4021956
+    },
+    {
+      "id": "rough-cactus-coral",
+      "common_name": "Rough Cactus Coral",
+      "scientific_name": "Mycetophyllia ferox",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/rough-cactus-coral.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/rough-cactus-coral.json",
+      "model_bytes": 4426668
+    },
+    {
+      "id": "rough-toothed-dolphin",
+      "common_name": "Rough-Toothed Dolphin",
+      "scientific_name": "Steno bredanensis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/rough-toothed-dolphin.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/rough-toothed-dolphin.json",
+      "model_bytes": 2214128
+    },
+    {
+      "id": "sablefish",
+      "common_name": "Sablefish",
+      "scientific_name": "Anoplopoma fimbria",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/sablefish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/sablefish.json",
+      "model_bytes": 2921644
+    },
+    {
+      "id": "sakhalin-sturgeon",
+      "common_name": "Sakhalin Sturgeon",
+      "scientific_name": "Acipenser mikadoi",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/sakhalin-sturgeon.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/sakhalin-sturgeon.json",
+      "model_bytes": 3023612
+    },
+    {
+      "id": "sandbar-shark",
+      "common_name": "Sandbar Shark",
+      "scientific_name": "Carcharhinus plumbeus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/sandbar-shark.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/sandbar-shark.json",
+      "model_bytes": 2630728
+    },
+    {
+      "id": "sawback-angelshark",
+      "common_name": "Sawback Angelshark",
+      "scientific_name": "Squatina aculeata",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/sawback-angelshark.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/sawback-angelshark.json",
+      "model_bytes": 3491332
+    },
+    {
+      "id": "scalloped-hammerhead-shark",
+      "common_name": "Scalloped Hammerhead Shark",
+      "scientific_name": "Sphyrna lewini",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/scalloped-hammerhead-shark.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/scalloped-hammerhead-shark.json",
+      "model_bytes": 2301464
+    },
+    {
+      "id": "scup",
+      "common_name": "Scup",
+      "scientific_name": "Stenotomus chrysops",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/scup.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/scup.json",
+      "model_bytes": 3909532
+    },
+    {
+      "id": "sei-whale",
+      "common_name": "Sei Whale",
+      "scientific_name": "Balaenoptera borealis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/sei-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/sei-whale.json",
+      "model_bytes": 2240716
+    },
+    {
+      "id": "short-beaked-common-dolphin",
+      "common_name": "Short-Beaked Common Dolphin",
+      "scientific_name": "Delphinus delphis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/short-beaked-common-dolphin.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/short-beaked-common-dolphin.json",
+      "model_bytes": 2189200
+    },
+    {
+      "id": "short-finned-pilot-whale",
+      "common_name": "Short-Finned Pilot Whale",
+      "scientific_name": "Globicephala macrorhynchus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/short-finned-pilot-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/short-finned-pilot-whale.json",
+      "model_bytes": 2671892
+    },
+    {
+      "id": "shortfin-mako-shark",
+      "common_name": "Shortfin Mako Shark",
+      "scientific_name": "Isurus oxyrinchus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/shortfin-mako-shark.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/shortfin-mako-shark.json",
+      "model_bytes": 2488240
+    },
+    {
+      "id": "shortfin-squid",
+      "common_name": "Shortfin Squid",
+      "scientific_name": "Illex illecebrosus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/shortfin-squid.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/shortfin-squid.json",
+      "model_bytes": 3402944
+    },
+    {
+      "id": "shortnose-sturgeon",
+      "common_name": "Shortnose Sturgeon",
+      "scientific_name": "Acipenser brevirostrum",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/shortnose-sturgeon.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/shortnose-sturgeon.json",
+      "model_bytes": 2471728
+    },
+    {
+      "id": "shortspine-thornyhead",
+      "common_name": "Shortspine Thornyhead",
+      "scientific_name": "Sebastolobus alascanus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/shortspine-thornyhead.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/shortspine-thornyhead.json",
+      "model_bytes": 3611580
+    },
+    {
+      "id": "silver-hake",
+      "common_name": "Silver Hake",
+      "scientific_name": "Merluccius bilinearis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/silver-hake.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/silver-hake.json",
+      "model_bytes": 2880072
+    },
+    {
+      "id": "smalltooth-sawfish",
+      "common_name": "Smalltooth Sawfish",
+      "scientific_name": "Pristis pectinata",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/smalltooth-sawfish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/smalltooth-sawfish.json",
+      "model_bytes": 2567456
+    },
+    {
+      "id": "smoothback-angelshark",
+      "common_name": "Smoothback Angelshark",
+      "scientific_name": "Squatina oculata",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/smoothback-angelshark.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/smoothback-angelshark.json",
+      "model_bytes": 2730916
+    },
+    {
+      "id": "sockeye-salmon",
+      "common_name": "Sockeye Salmon",
+      "scientific_name": "Oncorhynchus nerka",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/sockeye-salmon.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/sockeye-salmon.json",
+      "model_bytes": 2529656
+    },
+    {
+      "id": "sockeye-salmon-protected",
+      "common_name": "Sockeye Salmon (Protected)",
+      "scientific_name": "Oncorhynchus nerka",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/sockeye-salmon-protected.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/sockeye-salmon-protected.json",
+      "model_bytes": 2529656
+    },
+    {
+      "id": "southern-right-whale",
+      "common_name": "Southern Right Whale",
+      "scientific_name": "Eubalaena australis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/southern-right-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/southern-right-whale.json",
+      "model_bytes": 2264448
+    },
+    {
+      "id": "sowerbys-beaked-whale",
+      "common_name": "Sowerby's Beaked Whale",
+      "scientific_name": "Mesoplodon bidens",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/sowerbys-beaked-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/sowerbys-beaked-whale.json",
+      "model_bytes": 2379204
+    },
+    {
+      "id": "spanish-mackerel",
+      "common_name": "Spanish Mackerel",
+      "scientific_name": "Scomberomorus maculatus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/spanish-mackerel.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/spanish-mackerel.json",
+      "model_bytes": 2466680
+    },
+    {
+      "id": "sperm-whale",
+      "common_name": "Sperm Whale",
+      "scientific_name": "Physeter macrocephalus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/sperm-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/sperm-whale.json",
+      "model_bytes": 2294456
+    },
+    {
+      "id": "spinner-dolphin",
+      "common_name": "Spinner Dolphin",
+      "scientific_name": "Stenella longirostris",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/spinner-dolphin.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/spinner-dolphin.json",
+      "model_bytes": 2462780
+    },
+    {
+      "id": "spiny-angelshark",
+      "common_name": "Spiny Angelshark",
+      "scientific_name": "Squatina guggenheim",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/spiny-angelshark.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/spiny-angelshark.json",
+      "model_bytes": 3182976
+    },
+    {
+      "id": "spotted-seal",
+      "common_name": "Spotted Seal",
+      "scientific_name": "Phoca largha",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/spotted-seal.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/spotted-seal.json",
+      "model_bytes": 3108764
+    },
+    {
+      "id": "staghorn-coral",
+      "common_name": "Staghorn Coral",
+      "scientific_name": "Acropora cervicornis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/staghorn-coral.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/staghorn-coral.json",
+      "model_bytes": 7762952
+    },
+    {
+      "id": "steelhead",
+      "common_name": "Steelhead",
+      "scientific_name": "Oncorhynchus mykiss",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/steelhead.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/steelhead.json",
+      "model_bytes": 3195712
+    },
+    {
+      "id": "stejnegers-beaked-whale",
+      "common_name": "Stejneger's Beaked Whale",
+      "scientific_name": "Mesoplodon stejnegeri",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/stejnegers-beaked-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/stejnegers-beaked-whale.json",
+      "model_bytes": 2438344
+    },
+    {
+      "id": "steller-sea-lion",
+      "common_name": "Steller Sea Lion",
+      "scientific_name": "Eumetopias jubatus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/steller-sea-lion.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/steller-sea-lion.json",
+      "model_bytes": 4897940
+    },
+    {
+      "id": "striped-dolphin",
+      "common_name": "Striped Dolphin",
+      "scientific_name": "Stenella coeruleoalba",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/striped-dolphin.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/striped-dolphin.json",
+      "model_bytes": 1615048
+    },
+    {
+      "id": "striped-marlin",
+      "common_name": "Striped Marlin",
+      "scientific_name": "Kajikia audax",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/striped-marlin.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/striped-marlin.json",
+      "model_bytes": 2260772
+    },
+    {
+      "id": "striped-smoothhound-shark",
+      "common_name": "Striped Smoothhound Shark",
+      "scientific_name": "Mustelus fasciatus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/striped-smoothhound-shark.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/striped-smoothhound-shark.json",
+      "model_bytes": 3050032
+    },
+    {
+      "id": "sugar-kelp",
+      "common_name": "Sugar Kelp",
+      "scientific_name": "Saccharina latissima",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/sugar-kelp.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/sugar-kelp.json",
+      "model_bytes": 4116360
+    },
+    {
+      "id": "summer-flounder",
+      "common_name": "Summer Flounder",
+      "scientific_name": "Paralichthys dentatus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/summer-flounder.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/summer-flounder.json",
+      "model_bytes": 3731216
+    },
+    {
+      "id": "sunflower-sea-star",
+      "common_name": "Sunflower Sea Star",
+      "scientific_name": "Pycnopodia helianthoides",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/sunflower-sea-star.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/sunflower-sea-star.json",
+      "model_bytes": 4179552
+    },
+    {
+      "id": "taiwanese-humpback-dolphin",
+      "common_name": "Taiwanese Humpback Dolphin",
+      "scientific_name": "Sousa chinensis taiwanensis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/taiwanese-humpback-dolphin.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/taiwanese-humpback-dolphin.json",
+      "model_bytes": 3193252
+    },
+    {
+      "id": "tope-shark",
+      "common_name": "Tope Shark",
+      "scientific_name": "Galeorhinus galeus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/tope-shark.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/tope-shark.json",
+      "model_bytes": 1595156
+    },
+    {
+      "id": "totoaba",
+      "common_name": "Totoaba",
+      "scientific_name": "Totoaba macdonaldi",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/totoaba.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/totoaba.json",
+      "model_bytes": 2934584
+    },
+    {
+      "id": "trues-beaked-whale",
+      "common_name": "True's Beaked Whale",
+      "scientific_name": "Mesoplodon mirus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/trues-beaked-whale.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/trues-beaked-whale.json",
+      "model_bytes": 2140936
+    },
+    {
+      "id": "vaquita",
+      "common_name": "Vaquita",
+      "scientific_name": "Phocoena sinus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/vaquita.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/vaquita.json",
+      "model_bytes": 2488760
+    },
+    {
+      "id": "vermilion-snapper",
+      "common_name": "Vermilion Snapper",
+      "scientific_name": "Rhomboplites aurorubens",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/vermilion-snapper.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/vermilion-snapper.json",
+      "model_bytes": 3789868
+    },
+    {
+      "id": "west-coast-coastal-pelagic-species",
+      "common_name": "West Coast Coastal Pelagic Species",
+      "scientific_name": "",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/west-coast-coastal-pelagic-species.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/west-coast-coastal-pelagic-species.json",
+      "model_bytes": 4358792
+    },
+    {
+      "id": "west-coast-groundfish",
+      "common_name": "West Coast Groundfish",
+      "scientific_name": "",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/west-coast-groundfish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/west-coast-groundfish.json",
+      "model_bytes": 4777648
+    },
+    {
+      "id": "western-atlantic-bluefin-tuna",
+      "common_name": "Western Atlantic Bluefin Tuna",
+      "scientific_name": "Thunnus thynnus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/western-atlantic-bluefin-tuna.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/western-atlantic-bluefin-tuna.json",
+      "model_bytes": 3264764
+    },
+    {
+      "id": "white-abalone",
+      "common_name": "White Abalone",
+      "scientific_name": "Haliotis sorenseni",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/white-abalone.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/white-abalone.json",
+      "model_bytes": 6488044
+    },
+    {
+      "id": "white-beaked-dolphin",
+      "common_name": "White-Beaked Dolphin",
+      "scientific_name": "Lagenorhynchus albirostris",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/white-beaked-dolphin.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/white-beaked-dolphin.json",
+      "model_bytes": 2154804
+    },
+    {
+      "id": "white-hake",
+      "common_name": "White Hake",
+      "scientific_name": "Urophycis tenuis",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/white-hake.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/white-hake.json",
+      "model_bytes": 3268488
+    },
+    {
+      "id": "white-shark",
+      "common_name": "White Shark",
+      "scientific_name": "Carcharodon carcharias",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/white-shark.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/white-shark.json",
+      "model_bytes": 2465492
+    },
+    {
+      "id": "white-shrimp",
+      "common_name": "White Shrimp",
+      "scientific_name": "Litopenaeus setiferus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/white-shrimp.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/white-shrimp.json",
+      "model_bytes": 3577204
+    },
+    {
+      "id": "widow-rockfish",
+      "common_name": "Widow Rockfish",
+      "scientific_name": "Sebastes entomelas",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/widow-rockfish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/widow-rockfish.json",
+      "model_bytes": 3639096
+    },
+    {
+      "id": "windowpane-flounder",
+      "common_name": "Windowpane Flounder",
+      "scientific_name": "Scophthalmus aquosus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/windowpane-flounder.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/windowpane-flounder.json",
+      "model_bytes": 4206844
+    },
+    {
+      "id": "winter-flounder",
+      "common_name": "Winter Flounder",
+      "scientific_name": "Pseudopleuronectes americanus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/winter-flounder.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/winter-flounder.json",
+      "model_bytes": 4192372
+    },
+    {
+      "id": "winter-skate",
+      "common_name": "Winter Skate",
+      "scientific_name": "Leucoraja ocellata",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/winter-skate.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/winter-skate.json",
+      "model_bytes": 3792292
+    },
+    {
+      "id": "witch-flounder",
+      "common_name": "Witch Flounder",
+      "scientific_name": "Glyptocephalus cynoglossus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/witch-flounder.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/witch-flounder.json",
+      "model_bytes": 3383280
+    },
+    {
+      "id": "wreckfish",
+      "common_name": "Wreckfish",
+      "scientific_name": "Polyprion americanus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/wreckfish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/wreckfish.json",
+      "model_bytes": 3733872
+    },
+    {
+      "id": "yelloweye-rockfish",
+      "common_name": "Yelloweye Rockfish",
+      "scientific_name": "Sebastes ruberrimus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/yelloweye-rockfish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/yelloweye-rockfish.json",
+      "model_bytes": 3594676
+    },
+    {
+      "id": "yellowfin-sole",
+      "common_name": "Yellowfin Sole",
+      "scientific_name": "Limanda aspera",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/yellowfin-sole.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/yellowfin-sole.json",
+      "model_bytes": 3790296
+    },
+    {
+      "id": "yellowtail-flounder",
+      "common_name": "Yellowtail Flounder",
+      "scientific_name": "Limanda ferruginea",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/yellowtail-flounder.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/yellowtail-flounder.json",
+      "model_bytes": 3781092
+    },
+    {
+      "id": "yellowtail-rockfish",
+      "common_name": "Yellowtail Rockfish",
+      "scientific_name": "Sebastes flavidus",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/models/yellowtail-rockfish.glb",
+      "facts": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/facts/yellowtail-rockfish.json",
+      "model_bytes": 3614476
+    }
+  ]
+}
