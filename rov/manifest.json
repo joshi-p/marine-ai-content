@@ -1,0 +1,24 @@
+{
+  "dataset": "rov",
+  "version": 1,
+  "count": 2,
+  "model_format": "glb",
+  "items": [
+    {
+      "id": "rov",
+      "common_name": "ROV",
+      "scientific_name": "",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/rov/models/rov.glb",
+      "facts": "",
+      "model_bytes": 7776716
+    },
+    {
+      "id": "dumbo-octopus",
+      "common_name": "Dumbo Octopus",
+      "scientific_name": "",
+      "model": "https://github.com/joshi-p/marine-ai-content/raw/refs/heads/main/rov/models/dumbo-octopus.glb",
+      "facts": "",
+      "model_bytes": 2891888
+    }
+  ]
+}
